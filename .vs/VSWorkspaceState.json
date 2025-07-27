@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Controllers",
+    "\\API\\Middlewares",
+    "\\Application",
+    "\\Application\\DTOs",
+    "\\Application\\DTOs\\UserDTO",
+    "\\Application\\Interfaces",
+    "\\Application\\Services",
+    "\\Tests"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
